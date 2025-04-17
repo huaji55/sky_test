@@ -61,8 +61,8 @@ export default defineConfig({
           items: [
             { text: '幸运日', link: '/zh/events/days_of_fontune' },
             { text: '爱之日', link: '/zh/events/days_of_love' },
+            { text: '寻宝节', link: '/zh/events/days_of_treasure' },
             { text: '花之日', link: '/zh/events/days_of_bloom' },
-            { text: '寻宝节', link: '/events/days_of_treasure' },
             { text: '自然日', link: '/zh/events/days_of_nature' },
             { text: '彩虹日', link: '/zh/events/days_of_rainbow' },
             { text: '周年庆', link: '/zh/events/days_of_anniversary' },

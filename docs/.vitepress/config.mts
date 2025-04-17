@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'GitHub ', link: 'https://github.com/huaji55/sky/' },
+      { text: 'GitHub ', link: 'https://github.com/huaji55/sky_test/' },
     ],
     sidebar: {
       '/': [
@@ -19,7 +19,7 @@ export default defineConfig({
             { text: '活動', link: '/events/' },
             { text: '更新說明', link: '/patch-notes' },
             { text: '已知問題', link: '/known-issues' },
-            { text: 'GitHub 專案', link: 'https://github.com/huaji55/sky/' }
+            { text: 'GitHub 專案', link: 'https://github.com/huaji55/sky_test/' }
           ],
         },
         {
@@ -52,7 +52,7 @@ export default defineConfig({
             { text: '活动', link: '/zh/events/' },
             { text: '更新说明', link: '/zh/patch-notes' },
             { text: '已知问题', link: '/zh/known-issues' },
-            { text: 'GitHub 专案', link: 'https://github.com/huaji55/sky/' }
+            { text: 'GitHub 专案', link: 'https://github.com/huaji55/sky_test/' }
           ],
         },
         {

@@ -26,9 +26,9 @@ hero:
 ## 語言切換(语言切换/language switch):
 选择您的语言(選擇您的語言/Choose your language)：
 <div class="language-switcher">
-  <a href="/sky/zh/" class="language-button">简体中文</a>
-  <a href="/sky/" class="language-button">繁体中文</a>
-  <a href="/sky/en/" class="language-button">English</a>
+  <a href="/sky_test/zh/" class="language-button">简体中文</a>
+  <a href="/sky_test/" class="language-button">繁体中文</a>
+  <a href="/sky_test/en/" class="language-button">English</a>
 </div>
 
 <style>
